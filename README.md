@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá, sou o Vinicius Haubert 👋
 
-<!--
-**vinihaubert/vinihaubert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Soft skills
 
-Here are some ideas to get you started:
+Sou uma pessoa com fácil adptação, timído e tranquilo com opiniões diferentes da minha
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hard skills
+
+<div style = "display: inline_block">
+<img src="https://github.com/user-attachments/assets/ff72dedd-01cc-4aa4-9c0a-30e430c3601e"/>
+<img src="https://github.com/user-attachments/assets/34f9e8b3-88a9-4070-9e94-eb9436b4da93"/>
+<img src="https://github.com/user-attachments/assets/2668b49e-293f-4b08-bf6c-2ebd9fb58e46"/>
+
+</div>
