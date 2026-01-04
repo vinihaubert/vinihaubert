@@ -2,7 +2,7 @@
 
 ### Soft skills
 
-Sou uma pessoa com fácil adptação, timído e tranquilo com opiniões diferentes da minha
+Sou uma pessoa com fácil adptação, proativo e criativo
 
 ### Hard skills
 
